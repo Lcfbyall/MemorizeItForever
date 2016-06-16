@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10171" systemVersion="15E65" minimumToolsVersion="Automatic">
+    <entity name="SetEntity" representedClassName="MemorizeItForever.SetEntity" syncable="YES">
+        <attribute name="id" attributeType="String" syncable="YES"/>
+        <attribute name="name" attributeType="String" syncable="YES"/>
+        <relationship name="words" toMany="YES" deletionRule="Cascade" destinationEntity="WordEntity" inverseName="set" inverseEntity="WordEntity" syncable="YES"/>
+    </entity>
+    <entity name="WordEntity" representedClassName="MemorizeItForever.WordEntity" syncable="YES">
+        <attribute name="id" attributeType="String" syncable="YES"/>
+        <attribute name="meaning" attributeType="String" syncable="YES"/>
+        <attribute name="order" attributeType="Integer 32" syncable="YES"/>
+        <attribute name="phrase" attributeType="String" syncable="YES"/>
+        <attribute name="status" attributeType="Integer 16" defaultValueString="NO" syncable="YES"/>
+        <relationship name="set" maxCount="1" deletionRule="Nullify" destinationEntity="SetEntity" inverseName="words" inverseEntity="SetEntity" syncable="YES"/>
+    </entity>
+    <entity name="WordHistoryEntity" representedClassName="MemorizeItForever.WordHistoryEntity" syncable="YES">
+        <attribute name="columnNo" attributeType="Integer 16" syncable="YES"/>
+        <attribute name="failureCount" attributeType="Integer 32" syncable="YES"/>
+        <attribute name="id" attributeType="String" syncable="YES"/>
+        <relationship name="word" maxCount="1" deletionRule="Nullify" destinationEntity="WordEntity" syncable="YES"/>
+    </entity>
+    <entity name="WordInProgressEntity" representedClassName=".WordInProgressEntity" syncable="YES">
+        <attribute name="column" attributeType="Integer 16" syncable="YES"/>
+        <attribute name="date" attributeType="Date" syncable="YES"/>
+        <attribute name="id" attributeType="String" syncable="YES"/>
+        <relationship name="word" maxCount="1" deletionRule="Nullify" destinationEntity="WordEntity" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="SetEntity" positionX="-297" positionY="18" width="128" height="90"/>
+        <element name="WordEntity" positionX="-54" positionY="9" width="128" height="135"/>
+        <element name="WordHistoryEntity" positionX="-162" positionY="72" width="128" height="105"/>
+        <element name="WordInProgressEntity" positionX="-171" positionY="54" width="128" height="105"/>
+    </elements>
+</model>

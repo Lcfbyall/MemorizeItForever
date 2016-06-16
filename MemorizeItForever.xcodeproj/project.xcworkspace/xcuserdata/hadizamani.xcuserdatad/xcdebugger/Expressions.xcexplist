@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Array&lt;A where ...&gt;.toModels&lt;A where ...&gt; () throws -&gt; [A1]:ArrayExtensions.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "TModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WordInProgressDataAccess.fetchWordInProgressByDateAndOlder(WordInProgressModel) throws -&gt; [WordInProgressModel]:WordInProgressDataAccess.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "wordInProgress">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SetViewControllerTests.testRegistrationForNotificationHappensInViewDidAppear() -&gt; ():SetViewControllerTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "objc_getAssociatedObject(setViewController, &amp;setTableDataSourceDidSelectItemNotification)">
+            </PersistentString>
+            <PersistentString
+               value = "objc_getAssociatedObject(setViewController, setTableDataSourceDidSelectItemNotification)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WordDataAccess.saveWordEntity(WordModel) throws -&gt; ():WordDataAccess.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.localizedDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RoundedButton.drawRect(CGRect) -&gt; ():RoundedButton.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bounds.midY - width / 2">
+            </PersistentString>
+            <PersistentString
+               value = "bounds">
+            </PersistentString>
+            <PersistentString
+               value = "bounds.midX - width / 2">
+            </PersistentString>
+            <PersistentString
+               value = "bounds.midY">
+            </PersistentString>
+            <PersistentString
+               value = "bounds.midX">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WordFlowsTests.testPutWordInFirstColumn() -&gt; ():WordFlowsTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "wordInProgressDataAccess">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WordInProgressDataAccess.saveWordInProgressEntity(WordInProgressModel) throws -&gt; ():WordInProgressDataAccess.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "wordInProgressModel.date?.getDate()">
+            </PersistentString>
+            <PersistentString
+               value = "wordInProgressEntity.date">
+            </PersistentString>
+            <PersistentString
+               value = "wordInProgressModel.date">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WordManager.fetchNewWordsPutInPreColumn() throws -&gt; ():WordManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSUserDefaults.standardUserDefaults().objectForKey(Settings.NewWordsCount.rawValue)">
+            </PersistentString>
+            <PersistentString
+               value = "NSUserDefaults.standardUserDefaults()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GenericDataAccess.fetchEntity(PredicateProtocol?, sort : SortProtocol?, fetchLimit : Int?) throws -&gt; [A]:GenericDataAccess.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fetchRequest.predicate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SetEntity.toModel() throws -&gt; ModelProtocol:SetEntity.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WordHistoryEntityCRUDTests.testSaveANewWordHistoryEntity() -&gt; ():WordHistoryEntityCRUDTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.localizedDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SetTableDataSourceTests.testNotificationContainsSetModel() -&gt; ():SetTableDataSourceTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "postedNotification?.object as? Wrapper&lt;SetModel?&gt;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemorizeItViewController.viewDidLoad() -&gt; ():MemorizeItViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.frame.width">
+            </PersistentString>
+            <PersistentString
+               value = "self.view.frame.height / 2">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GenericDataAccess.init(initialManagedObjectContext : NSManagedObjectContext) -&gt; GenericDataAccess&lt;A&gt;:GenericDataAccess.swift">
+      </ContextState>
+      <ContextState
+         contextName = "WordInProgressDataAccess.editWordInProgressEntity(WordInProgressModel) throws -&gt; ():WordInProgressDataAccess.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "wordInProgressModel.date?.getDate()">
+            </PersistentString>
+            <PersistentString
+               value = " wordInProgressEntity.date">
+            </PersistentString>
+            <PersistentString
+               value = "wordInProgressModel.date">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GenericDataAccess.saveEntity(A) throws -&gt; ():GenericDataAccess.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.localizedDescription">
+            </PersistentString>
+            <PersistentString
+               value = "managedObjectContext">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PredicateObject.toNSPredicate() -&gt; NSPredicate?:PredicateObject.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.value">
+            </PersistentString>
+            <PersistentString
+               value = "String(format: predicateString, self.value)">
+            </PersistentString>
+            <PersistentString
+               value = "NSPredicate(format: predicateString, self.value)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NSNotificationCenter.postNotificationName&lt;A&gt; (NotificationName, object : A) -&gt; ():NSNotificationCenterExtension.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "T">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SetDataAccess.(fetchSets in _EE8BA537A831E0FEF866961E61B1B25E)(PredicateProtocol?) throws -&gt; SetModel:SetDataAccess.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sets[0] as! SetModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NSDate.equalToDate(NSDate) -&gt; Bool:NSDateExtensions.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.timeIntervalSince1970">
+            </PersistentString>
+            <PersistentString
+               value = "dateToCompare.timeIntervalSince1970">
+            </PersistentString>
+            <PersistentString
+               value = "self.compare(dateToCompare)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NSNotificationCenter.postNotificationName(NotificationName, object : ModelProtocol) -&gt; ():NSNotificationCenterExtension.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SetDataAccess.(fetchSets in _EE8BA537A831E0FEF866961E61B1B25E)(PredicateProtocol?) throws -&gt; [SetModel]:SetDataAccess.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "test">
+            </PersistentString>
+            <PersistentString
+               value = "d?.UUIDString">
+            </PersistentString>
+            <PersistentString
+               value = "test[0] as SetModel">
+            </PersistentString>
+            <PersistentString
+               value = "fff">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NSNotificationCenter.postNotificationName(NotificationName, object : protocol&lt;&gt;) -&gt; ():NSNotificationCenterExtension.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SetDataAccess.dataAccess.getter:SetDataAccess.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SetViewControllerTests.testMethodWhichRecievedNotificationHasTheCorrectSetModel() -&gt; ():SetViewControllerTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "objc_getAssociatedObject(setViewController, &amp;setTableDataSourceDidSelectItemNotification)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WordHistoryDataAccess.fetchWordHistoryByWordIdAndColumnNo(WordHistoryModel) -&gt; ():WordHistoryDataAccess.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "test[0].word!.id">
+            </PersistentString>
+            <PersistentString
+               value = "wordHistoryModel.word?.wordId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SetDataAccess.saveSetEntity(SetModel) throws -&gt; ():SetDataAccess.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dataAccess">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WordEntityCRUDTests.testSaveANewWordEntity() -&gt; ():WordEntityCRUDTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nserror.localizedDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WordFlowsTests.testDoNotFetchWordsForPuttingInPreColumnIfAlreadyFetched() -&gt; ():WordFlowsTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "wordInProgress!.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DataAccessProtocol.fetchModels&lt;A where ...&gt; (PredicateProtocol?) throws -&gt; [A1]:DataAccessProtocolExtensions.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "entities.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
